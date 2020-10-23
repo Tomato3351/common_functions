@@ -1,0 +1,11 @@
+/.vs
+/x64
+/Debug
+/Release
+/common_functions/Debug
+/common_functions/Release
+/common_functions/x64
+*.vcxproj
+*.vcxproj.filters
+*.user
+/*.sln
